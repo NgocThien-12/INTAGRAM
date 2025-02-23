@@ -116,3 +116,8 @@ a {
 .header .action {
   margin-left: 49px;
 }
+ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
